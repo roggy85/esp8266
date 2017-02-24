@@ -32,5 +32,6 @@ data = [[
 t = cjson.decode(data)
 
 print (t.Results[1].Readings.temperature.Value)
+print (t.Results[1].Name)
 print (t.Results[1].Readings.humidity.Value)
 print (t.Results[1].Readings.dewpoint.Value)
