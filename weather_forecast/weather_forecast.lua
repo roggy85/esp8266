@@ -1,2 +1,0 @@
--- weather.com api calls to get weather forecast
--- API documentation: https://api.wetter.com/files/wetter.com_openweather_api.pdf
